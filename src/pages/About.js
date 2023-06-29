@@ -85,8 +85,8 @@ function About() {
                   transmission.
                 </h2>
                 <p>
-                  We’ve streamlined our plans to give you the internet available
-                  at your address for one low monthly price.
+                  We’ve streamlined our plans to give you the fastest internet
+                  available at your address for one low monthly price.
                 </p>
                 <div className='row g-2 mb-4 pb-2'>
                   <div className='col-sm-12'>
